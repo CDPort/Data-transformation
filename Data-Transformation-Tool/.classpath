@@ -17,6 +17,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/macbookpro/Documents/Cpit/Semester_3/Thesis-proj/sixthCDPortLibrary.jar"/>
+	<classpathentry kind="lib" path="/Users/macbookpro/mysql-connector-java-5.1.32/mysql-connector-java-5.1.32-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/macbookpro/Documents/Cpit/Semester_3/Thesis-proj/twelveCDPortLibrary_Nov.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
